@@ -1,2 +1,2 @@
 # xml-transcripts-EEBO-TCP
-XML of Cavendish's works created by the Text Creation Partnership and Early English Books Online (EEBO-TCP)
+These keyboarded and encoded editions of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. This Phase I text is available for reuse, according to the terms of Creative Commons 0 1.0 Universal. The text can be copied, modified, distributed and performed, even for commercial purposes, all without asking permission.
